@@ -5,3 +5,4 @@ LastName="Hithesh";
 let newname=LastName.toUpperCase();
 console.log(newname);
 console.log(newname);
+console.log(LastName);
